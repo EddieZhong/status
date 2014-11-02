@@ -4,7 +4,7 @@ var __apiKeys = [
 ];
 
 // refresh interval (in seconds)
-var __refresh = 900;
+var __refresh = 300;
 
 // the default language
 // set false to disable language support and show only english,

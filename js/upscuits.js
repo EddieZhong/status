@@ -39,6 +39,7 @@ myApp.dashboard = (function($) {
 		_start = Date.now();
 		_template = $('#server-template').html();
 		$_container = $('#server-container').html('');
+		$_subtitle = $('#subtitle-container').html('');
 		$_prograss = $('.loading');
 		$_countdown = $('.countdown');
 		$_lastUpdate = $('#last-update');

@@ -4,8 +4,7 @@ var __apiKeys = [
 	'm776359676-5e0337ed69528ebab2ceb20c', 
 	'm776951408-bc0c93099ecb2c4bf7c493c5', 
 	'm776698091-5be29ebc997adacb6a39e1ff',
-	'm778307767-78cf8a7502fa37d05cf245c1',
-	'm778411179-4a8c58b86a4c62e70aa27254'
+	'm778307767-78cf8a7502fa37d05cf245c1'
 ];
 
 // refresh interval (in seconds)
